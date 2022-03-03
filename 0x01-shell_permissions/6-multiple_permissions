@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ug +[[C[C[[C+x,o+r hello
+chmod ug+x,o+r hello
